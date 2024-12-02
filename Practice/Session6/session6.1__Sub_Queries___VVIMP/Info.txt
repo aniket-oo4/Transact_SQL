@@ -1,0 +1,10 @@
+Subqueries can be specified in many places:
+
+With aliases. For more information, see Subqueries with table aliases.
+With IN or NOT IN. For more information, see Subqueries with IN and Subqueries with NOT IN.
+In UPDATE, DELETE, and INSERT statements. For more information, see Subqueries in UPDATE, DELETE, and INSERT Statements.
+With comparison operators. For more information, see Subqueries with comparison operators.
+With ANY, SOME, or ALL. For more information, see Comparison operators modified by ANY, SOME, or ALL.
+With IS [NOT] DISTINCT FROM. For more information, see IS [NOT] DISTINCT FROM (Transact-SQL).
+With EXISTS or NOT EXISTS. For more information, see Subqueries with EXISTS and Subqueries with NOT EXISTS.
+In place of an expression. For more information, see Subqueries used in place of an expression.
